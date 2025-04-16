@@ -231,6 +231,16 @@ background: linear-gradient(
   width: fit-content;
 }
 
+
+/* 이력서보기 */
+.resume{
+  position: absolute;
+  width: 161px;
+  height: 38px;
+  top: 610px;
+  left: 740px;
+}
+
 /* my portfolio ======================= */
 
 .frame .img-2 {
@@ -249,6 +259,7 @@ background: linear-gradient(
   width: 1920px;
   height: 387px;
 }
+
 
 /* 영상 ============================== */
 
